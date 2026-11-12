@@ -5,6 +5,12 @@
 </p> -->
 
 <p align="center">
+  <a href="https://kafie.duckdns.org:2244/">
+    <img src="https://img.shields.io/badge/Personal_Website-Visit_My_Site-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
+  </a>
+</p>
+
+<p align="center">
   <b>ICT Student @ Mahidol University | Cybersecurity & Software Engineering</b>
 </p>
 
